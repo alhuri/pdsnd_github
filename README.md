@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bike Share System Analysis
 
-### Date created
-Include the date you created this project and README file.
+## Date created
+January 11, 2024
 
-### Project Title
-Replace the Project Title
+## Project Title
+Bike Share System Usage Analysis for Major Cities in the United States.
 
-### Description
-Describe what your project is about and what it does
+## Description
+This project aims to analyze bike share usage patterns for a provider offering services in three major cities in the United States: Chicago, New York City, and Washington, DC. The analysis will provide insights into the usage trends, popular routes, peak usage times, and other relevant metrics. The goal is to help the bike share system provider optimize their services and enhance the overall user experience.
 
-### Files used
-Include the files used
+## Files used
+- `chicago.csv`
+- `new_york_city.csv`
+- `washington.csv`
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+- This project was inspired by the Bike Share System Analysis project by [Udacity](https://github.com/udacity/pdsnd_github).
+
+
 
